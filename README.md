@@ -1,4 +1,4 @@
-Backend
+**Backend**
 
 cd server
 
@@ -6,7 +6,7 @@ npm install
 
 node server.js
 
-Frontend
+**Frontend**
 
 cd client
 
