@@ -18,3 +18,7 @@ cd client
 npm install
 
 npm run dev
+
+has a client and a server side that communicate with API calls the React front end : stores the lyrics the user typed
+sends them to your Node.js server, waits for results, displays results
+Node.js server : sentiment analysis, word frequency, compares against song.json dataset
