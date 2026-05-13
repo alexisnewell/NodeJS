@@ -1,3 +1,10 @@
-This is some of a site I created with Node.js
+Backend
 
-Run with : node index2.js
+cd server
+npm install
+node server.js
+
+Frontend
+cd client
+npm install
+npm run dev
