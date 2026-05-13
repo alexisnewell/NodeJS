@@ -1,0 +1,252 @@
+[
+    {
+      "title": "Love Story",
+      "artist": "Taylor Swift",
+      "keywords": ["romeo", "juliet", "love story", "baby just say yes"]
+    },
+    {
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "keywords": ["blank space", "long list", "darling im a nightmare", "magic madness"]
+    },
+    {
+      "title": "Anti-Hero",
+      "artist": "Taylor Swift",
+      "keywords": ["anti hero", "its me hi", "problem", "everybody agrees"]
+    },
+    {
+      "title": "Shake It Off",
+      "artist": "Taylor Swift",
+      "keywords": ["shake it off", "players gonna play", "haters gonna hate"]
+    },
+    {
+      "title": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "keywords": ["cruel summer", "fever dream", "devils roll the dice"]
+    },
+    {
+      "title": "Believer",
+      "artist": "Imagine Dragons",
+      "keywords": ["believer", "pain", "third things third"]
+    },
+    {
+      "title": "Radioactive",
+      "artist": "Imagine Dragons",
+      "keywords": ["radioactive", "welcome to the new age", "apocalypse"]
+    },
+    {
+      "title": "Demons",
+      "artist": "Imagine Dragons",
+      "keywords": ["demons", "dont get too close", "inside"]
+    },
+    {
+      "title": "Thunder",
+      "artist": "Imagine Dragons",
+      "keywords": ["thunder", "lightning", "kids were laughing"]
+    },
+    {
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "keywords": ["shape of you", "club isnt the best place", "bedsheets"]
+    },
+    {
+      "title": "Perfect",
+      "artist": "Ed Sheeran",
+      "keywords": ["perfect", "barefoot on the grass", "listening to our favorite song"]
+    },
+    {
+      "title": "Bad Habits",
+      "artist": "Ed Sheeran",
+      "keywords": ["bad habits", "late nights", "conversations with a stranger"]
+    },
+    {
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "keywords": ["blinding lights", "city cold and empty", "touch"]
+    },
+    {
+      "title": "Save Your Tears",
+      "artist": "The Weeknd",
+      "keywords": ["save your tears", "i made you cry", "take me back"]
+    },
+    {
+      "title": "Starboy",
+      "artist": "The Weeknd",
+      "keywords": ["starboy", "motherfuckin starboy", "brand new wagon"]
+    },
+    {
+      "title": "Drivers License",
+      "artist": "Olivia Rodrigo",
+      "keywords": ["drivers license", "suburbs", "blonde girl"]
+    },
+    {
+      "title": "Good 4 U",
+      "artist": "Olivia Rodrigo",
+      "keywords": ["good 4 u", "like a damn sociopath", "happy and healthy"]
+    },
+    {
+      "title": "Vampire",
+      "artist": "Olivia Rodrigo",
+      "keywords": ["vampire", "bloodsucker", "fame fucker"]
+    },
+    {
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "keywords": ["someone like you", "never mind ill find", "bittersweet"]
+    },
+    {
+      "title": "Rolling in the Deep",
+      "artist": "Adele",
+      "keywords": ["rolling in the deep", "fire starting in my heart"]
+    },
+    {
+      "title": "Hello",
+      "artist": "Adele",
+      "keywords": ["hello", "from the other side", "california dreaming"]
+    },
+    {
+      "title": "Counting Stars",
+      "artist": "OneRepublic",
+      "keywords": ["counting stars", "sleeping", "dreaming about the things"]
+    },
+    {
+      "title": "Apologize",
+      "artist": "OneRepublic",
+      "keywords": ["apologize", "too late", "take another chance"]
+    },
+    {
+      "title": "Closer",
+      "artist": "The Chainsmokers",
+      "keywords": ["closer", "backseat of your rover", "boulder"]
+    },
+    {
+      "title": "Something Just Like This",
+      "artist": "The Chainsmokers",
+      "keywords": ["something just like this", "superman", "spiderman"]
+    },
+    {
+      "title": "Sunflower",
+      "artist": "Post Malone",
+      "keywords": ["sunflower", "needless to say", "she wanna ride me"]
+    },
+    {
+      "title": "Circles",
+      "artist": "Post Malone",
+      "keywords": ["circles", "seasons change", "run away"]
+    },
+    {
+      "title": "Rockstar",
+      "artist": "Post Malone",
+      "keywords": ["rockstar", "hundred round", "pool in the hills"]
+    },
+    {
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "keywords": ["levitating", "moonlight", "starlight"]
+    },
+    {
+      "title": "Dont Start Now",
+      "artist": "Dua Lipa",
+      "keywords": ["dont start now", "walk away", "survive"]
+    },
+    {
+      "title": "New Rules",
+      "artist": "Dua Lipa",
+      "keywords": ["new rules", "one dont pick up the phone"]
+    },
+    {
+      "title": "Stay",
+      "artist": "The Kid LAROI",
+      "keywords": ["stay", "blame me", "drunk and wake up"]
+    },
+    {
+      "title": "Without Me",
+      "artist": "Halsey",
+      "keywords": ["without me", "put you high up", "lonely"]
+    },
+    {
+      "title": "Closer to Fine",
+      "artist": "Indigo Girls",
+      "keywords": ["closer to fine", "less i seek", "doctor"]
+    },
+    {
+      "title": "Royals",
+      "artist": "Lorde",
+      "keywords": ["royals", "cristal", "luxuries"]
+    },
+    {
+      "title": "Team",
+      "artist": "Lorde",
+      "keywords": ["team", "cities youll never see", "living in ruins"]
+    },
+    {
+      "title": "Bad Guy",
+      "artist": "Billie Eilish",
+      "keywords": ["bad guy", "duh", "might seduce your dad"]
+    },
+    {
+      "title": "Ocean Eyes",
+      "artist": "Billie Eilish",
+      "keywords": ["ocean eyes", "burning cities", "falling"]
+    },
+    {
+      "title": "Lovely",
+      "artist": "Billie Eilish",
+      "keywords": ["lovely", "glass my mind", "stone"]
+    },
+    {
+      "title": "Uptown Funk",
+      "artist": "Mark Ronson ft Bruno Mars",
+      "keywords": ["uptown funk", "dont believe me just watch"]
+    },
+    {
+      "title": "24K Magic",
+      "artist": "Bruno Mars",
+      "keywords": ["24k magic", "players", "moon girls"]
+    },
+    {
+      "title": "Grenade",
+      "artist": "Bruno Mars",
+      "keywords": ["grenade", "catch a grenade", "blade"]
+    },
+    {
+      "title": "Heat Waves",
+      "artist": "Glass Animals",
+      "keywords": ["heat waves", "fake water", "june"]
+    },
+    {
+      "title": "As It Was",
+      "artist": "Harry Styles",
+      "keywords": ["as it was", "leave america", "two kids"]
+    },
+    {
+      "title": "Watermelon Sugar",
+      "artist": "Harry Styles",
+      "keywords": ["watermelon sugar", "summer feeling", "berries"]
+    },
+    {
+      "title": "Flowers",
+      "artist": "Miley Cyrus",
+      "keywords": ["flowers", "buy myself flowers", "write my name"]
+    },
+    {
+      "title": "Wrecking Ball",
+      "artist": "Miley Cyrus",
+      "keywords": ["wrecking ball", "came in like a wrecking ball"]
+    },
+    {
+      "title": "Hey Look Ma I Made It",
+      "artist": "Panic! At The Disco",
+      "keywords": ["hustling", "record label", "garden of evil", "made it"]
+    },
+    {
+      "title": "High Hopes",
+      "artist": "Panic! At The Disco",
+      "keywords": ["high hopes", "had to have high high hopes"]
+    },
+    {
+      "title": "Sugar Were Goin Down",
+      "artist": "Fall Out Boy",
+      "keywords": ["loaded god complex", "sugar were goin down swinging"]
+    }
+  ]
