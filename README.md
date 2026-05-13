@@ -1,3 +1,5 @@
+Has a database of about 50 pop songs 
+
 **Backend**
 
 cd server
